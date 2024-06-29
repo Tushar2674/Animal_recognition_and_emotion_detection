@@ -12,4 +12,5 @@ This contains the development and evaluation of a machine learning model designe
 
 # Note 
 1 . **Task1.ipynb** is the jupyter source file containing model creation , training and saving .        
-2 . **Task1_vedio** is the demonstration vedio of the gui.py running . 
+2 . **Task1_vedio** is the demonstration vedio of the gui.py running .           
+3 . **Task1_report** is uploaded which contain all the information about the model.        
